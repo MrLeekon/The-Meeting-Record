@@ -3,6 +3,7 @@
 ## 开端
 
 * [简介](README.md)
+* [公众号](http://mp.weixin.qq.com/s/Vjgjb9Rrz5Ldep-Qx3NMFg)
 
 ## 「一期一会」之前
 
